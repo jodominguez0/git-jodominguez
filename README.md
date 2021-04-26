@@ -1,2 +1,2 @@
-# git-jodominguez
+# git-sandbox
 Test environment for git training
